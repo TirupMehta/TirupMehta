@@ -60,6 +60,7 @@ Need a developer with a hacker's mindset? I’m open to collaboration, especiall
 ## Connect with Me
 
 - **GitHub**: [github.com/TirupMehta](https://github.com/TirupMehta)
+- **X**: [github.com/TirupMehta](https://x.com/TirupMehta)
 - **Instagram**: [Instagram.com/Tirup_Mehta](https://instagram.com/Tirup_Mehta)
 
 ---
