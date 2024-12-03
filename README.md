@@ -21,11 +21,10 @@ I’m a versatile **front-end and back-end web developer** with a focus on craft
 ### Back-End Engineering:
 - Node.js, Express.js
 - Python (Django, Flask)
-- PHP (Laravel)
-- RESTful API Design & Security Integration
+- PHP
 
 ### Database Mastery:
-- MySQL, PostgreSQL
+- MySQL
 - MongoDB, Firebase
 
 ### Cybersecurity Defense:
@@ -35,16 +34,14 @@ I’m a versatile **front-end and back-end web developer** with a focus on craft
 
 ### DevOps Arsenal:
 - Git, GitHub, Bitbucket
-- Docker, Kubernetes
 - Nginx, Apache
-- CI/CD Pipelines (Jenkins, GitLab CI)
 - Cloud Deployment: AWS, DigitalOcean, Heroku
 
 ## Key Skills
 
+- **Front-end Proficiency**: turning client-side bugs into "features" faster than JavaScript can throw an error!
 - **Code with Precision**: Clean, efficient, and well-documented code is my signature. Every line is written with scalability and maintainability in mind.
 - **Security-First Approach**: I identify, neutralize, and eliminate threats before they become an issue. Defense is built into the code from the start.
-- **Full-Stack Proficiency**: From the client’s interface to the server’s core, I own the entire tech stack.
 - **Critical Thinking**: I solve complex issues by breaking them down and attacking them with code, bringing solutions that are both creative and effective.
 
 ## What I'm Hacking On
