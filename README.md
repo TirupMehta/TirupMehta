@@ -2,11 +2,11 @@
 
 ### Full Stack Developer | Cybersecurity Specialist | Code Sleuth
 
-I’m a versatile **front-end and back-end web developer** with a focus on crafting secure, high-performance applications. With a deep passion for **cybersecurity**, I thrive in the intersection of development and defense—building scalable solutions that are both powerful and secure. My mission? To help businesses and individuals navigate the ever-changing digital battlefield.
+I’m a versatile **front-end web developer** with a focus on crafting secure, high-performance applications. With a deep passion for **cybersecurity**, I thrive in the intersection of development and defense—building scalable solutions that are both powerful and secure. My mission? To help businesses and individuals navigate the ever-changing digital battlefield.
 
 ## About Me
 
-- **Full Stack Architect**: I design and deploy end-to-end web applications, ensuring seamless integration between the client and server.
+- **Front-end Architect**: I design and deploy end-to-end web applications. i have expertise in user-friendly ui development.
 - **Cybersecurity Advocate**: I advise on securing applications, mitigating vulnerabilities, and hardening systems against threats.
 - **Problem Solver**: From front-end aesthetics to back-end architecture, I approach every challenge with a methodical, code-first mindset.
 
