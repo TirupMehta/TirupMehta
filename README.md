@@ -1,6 +1,6 @@
 # Tirup Mehta 👾
 
-### Full Stack Developer | Cybersecurity Specialist | Code Sleuth
+### Front-end Developer | Cybersecurity Specialist | Code Sleuth
 
 I’m a versatile **front-end web developer** with a focus on crafting secure, high-performance applications. With a deep passion for **cybersecurity**, I thrive in the intersection of development and defense—building scalable solutions that are both powerful and secure. My mission? To help businesses and individuals navigate the ever-changing digital battlefield.
 
