@@ -19,13 +19,8 @@ I’m a versatile **front-end web developer** with a focus on crafting secure, h
 - Responsive Design, Mobile-First Architecture
 
 ### Back-End Engineering:
-- Node.js, Express.js
 - Python (Django, Flask)
 - PHP
-
-### Database Mastery:
-- MySQL
-- MongoDB, Firebase
 
 ### Cybersecurity Defense:
 - Web Application Security Best Practices
