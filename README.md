@@ -15,7 +15,7 @@ I’m a versatile **front-end web developer** with a focus on crafting secure, h
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TirupMehta&layout=compact&langs_count=8&theme=tokyonight)
 
 ### Front-End Warfare:
-- HTML5, CSS3, SASS/SCSS
+- HTML5, CSS3, DART
 - JavaScript (ES6+), TypeScript
 - React.js, Vue.js
 - Responsive Design, Mobile-First Architecture
