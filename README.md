@@ -1,61 +1,44 @@
-# Tirup Mehta ☕︎
+# Tirup Mehta
 
-### Front-end Developer | Cybersecurity Specialist | Code Sleuth
+**Software Engineer | Security Architect | AI/ML Systems**
 
-I’m a versatile **front-end web developer** with a focus on crafting secure, high-performance applications. With a deep passion for **cybersecurity**, I thrive in the intersection of development and defense—building scalable solutions that are both powerful and secure. My mission? To help businesses and individuals navigate the ever-changing digital battlefield.
+Building resilient web applications, automating defense mechanisms, and integrating machine learning into scalable architectures. I approach engineering with a strict focus on performance, fault tolerance, and security from the ground up.
 
-## About Me
+### Core Architecture & Engineering
+I specialize in bridging the gap between high-performance front-end systems and secure, scalable back-end infrastructure. 
 
-- **Front-end Architect**: I design and deploy end-to-end web applications. i have expertise in user-friendly ui development.
-- **Cybersecurity Advocate**: I advise on securing applications, mitigating vulnerabilities, and hardening systems against threats.
-- **Problem Solver**: From front-end aesthetics to back-end architecture, I approach every challenge with a methodical, code-first mindset.
+* **Front-End Systems:** React.js, Vue.js, TypeScript, JavaScript (ES6+), Dart. Optimized for edge deployment and rendering performance.
+* **Back-End & APIs:** Python (Django, Flask), PHP, Node.js. 
+* **Applied AI & ML:** Integrating LLMs, agentic workflows, and predictive models into production environments.
+* **Cybersecurity & Infrastructure:** Penetration testing, vulnerability auditing (OWASP Top 10, XSS, SQLi mitigation), and packet-level network analysis.
+* **DevOps & Cloud:** Git, CI/CD pipelines, AWS, Vercel, Nginx, Cloudflare/DNS management.
 
-## Tech Arsenal
-
-### Front-End Warfare:
-- HTML5, CSS3, DART
-- JavaScript (ES6+), TypeScript
-- React.js, Vue.js
-- Responsive Design, Mobile-First Architecture
-
-### Back-End Engineering:
-- Python (Django, Flask)
-- PHP
-
-### Cybersecurity Defense:
-- Web Application Security Best Practices
-- OWASP Top Ten, SQL Injection, XSS Mitigation
-- Penetration Testing & Vulnerability Assessment
-
-### DevOps Arsenal:
-- Git, GitHub, Bitbucket
-- Nginx, Apache
-- Cloud Deployment: AWS, DigitalOcean, Heroku
-
-## Key Skills
-
-- **Front-end Proficiency**: turning client-side bugs into "features" faster than JavaScript can throw an error!
-- **Code with Precision**: Clean, efficient, and well-documented code is my signature. Every line is written with scalability and maintainability in mind.
-- **Security-First Approach**: I identify, neutralize, and eliminate threats before they become an issue. Defense is built into the code from the start.
-- **Critical Thinking**: I solve complex issues by breaking them down and attacking them with code, bringing solutions that are both creative and effective.
-
-## What I'm Hacking On
-
-- Diving deeper into **serverless architectures** and finding ways to optimize systems for high traffic.
-- Enhancing my knowledge of **penetration testing** to further tighten the security of applications I build.
-- Experimenting with **new frameworks and languages** to keep my toolkit sharp.
-
-## Ready to Collaborate?
-
-Need a developer with a hacker's mindset? I’m open to collaboration, especially on projects that challenge the norm or require a fresh perspective. Let’s build something secure and groundbreaking.
-
-## Connect with Me
-
-- **GitHub**: [github.com/TirupMehta](https://github.com/TirupMehta)
-- **X**: [github.com/TirupMehta](https://x.com/TirupMehta)
-- **Instagram**: [Instagram.com/Tirup_Mehta](https://instagram.com/TirupMehta)
+### Current Operations
+* Architecting secure, AI-powered hardware/software integration hubs.
+* Conducting active vulnerability research, threat modeling, and system hardening for web platforms.
+* Optimizing serverless deployments for zero-downtime, high-traffic environments.
 
 ---
 
-_"In the world of technology, security isn't just a feature—it's a necessity."_
+### The Network 
 
+**Portfolio & Writing**
+* [tirup.in](https://tirup.in/) – Primary Domain
+* [Engineering Blog](https://blogs.tirup.in/) – Technical write-ups and system audits
+
+**Code, Data & Cloud**
+* [GitHub](https://github.com/TirupMehta) – Open-source intelligence and repositories
+* [Kaggle](https://www.kaggle.com/TirupMehta) – Datasets and ML models
+* [NPM](https://www.npmjs.com/~tirupmehta) – Package registries
+* [Google Developer](https://g.dev/Tirup) | [Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/5de29c1c-84d0-46a5-a4eb-5fa999499184)
+
+**Professional & Social Intelligence**
+* [LinkedIn](https://www.linkedin.com/in/TirupMehta)
+* [Peerlist](https://peerlist.io/tirupmehta)
+* [X (Twitter)](https://x.com/TirupMehta)
+* [YouTube](https://youtube.com/@TirupMehta)
+* [Happenstance](https://happenstance.ai/u/tirupmehta)
+* [Instagram](https://instagram.com/TirupMehta)
+
+---
+> *Code is a liability. Secure, efficient, and necessary code is an asset.*
