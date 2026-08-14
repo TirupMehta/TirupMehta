@@ -25,7 +25,10 @@ I specialize in bridging the gap between high-performance front-end systems and 
 * [Engineering Blog](https://blogs.tirup.in/) – Technical write-ups and system audits
 
 **Code, Data & Cloud**
-* [GitHub](https://github.com/TirupMehta) – Open-source intelligence and repositories
+
+* [GitHub Core Account](https://github.com/TirupMehta) – Production-ready platforms and hardened architectures
+* [GitHub Alt Account](https://github.com/MehtaDevelops) – Active R&D, proof-of-concepts, and early-stage prototypes
+
 * [Kaggle](https://www.kaggle.com/TirupMehta) – Datasets and ML models
 * [NPM](https://www.npmjs.com/~tirupmehta) – Package registries
 * [Google Developer](https://g.dev/Tirup) | [Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/5de29c1c-84d0-46a5-a4eb-5fa999499184)
