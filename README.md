@@ -16,6 +16,11 @@ I specialize in bridging the gap between high-performance front-end systems and 
 * Conducting active vulnerability research, threat modeling, and system hardening for web platforms.
 * Optimizing serverless deployments for zero-downtime, high-traffic environments.
 
+[![OpenAI Flagship](https://modelregistry.tirup.in/api/badge/openai)](https://modelregistry.tirup.in)
+[![Anthropic Flagship](https://modelregistry.tirup.in/api/badge/anthropic)](https://modelregistry.tirup.in)
+[![Meta AI Flagship](https://modelregistry.tirup.in/api/badge/meta)](https://modelregistry.tirup.in)
+
+
 ---
 
 ### The Network 
