@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/TirupMehta/TirupMehta/blob/main/Image.png" alt="Github Header">
+</p>
+
 # **Software Engineer | Security Architect | AI/ML Systems**
 
 Building resilient web applications, automating defense mechanisms, and integrating machine learning into scalable architectures. I approach engineering with a strict focus on performance, fault tolerance, and security from the ground up.
