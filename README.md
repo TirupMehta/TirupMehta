@@ -43,6 +43,3 @@ I specialize in bridging the gap between high-performance front-end systems and 
 * [YouTube](https://youtube.com/@TirupMehta)
 * [Happenstance](https://happenstance.ai/u/tirupmehta)
 * [Instagram](https://instagram.com/TirupMehta)
-
----
-> *Code is a liability. Secure, efficient, and necessary code is an asset.*
