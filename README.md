@@ -2,11 +2,9 @@
   <img src="https://github.com/TirupMehta/TirupMehta/blob/main/Image.png" alt="Learn. Build. Impact.">
 </p>
 
-# Tirup Mehta
-
 I'm a software engineering student in Gujarat who builds user-facing products, from web interfaces to local-first desktop software. I focus on making them clear to use on the surface and dependable underneath.
 
-Most of my work sits in two lanes: product engineering in **TypeScript and Next.js**, and native desktop or security tooling in **Rust and Node.js**.
+### Most of my work sits in two lanes: product engineering in TypeScript and Next.js, and native desktop or security tooling in Rust and Node.js.
 
 ### Shipped Work
 
@@ -37,5 +35,5 @@ I write about frontend engineering, build reliability, and application security 
 ### Links
 
 * **Portfolio & Writing:** [tirup.in](https://tirup.in) · [blogs.tirup.in](https://blogs.tirup.in) · [All Projects](https://tirup.in/work)
-* **Code & Packages:** [GitHub (@TirupMehta)](https://github.com/TirupMehta) · [GitHub R&D (@MehtaDevelops)](https://github.com/MehtaDevelops) · [npm (~tirupmehta)](https://www.npmjs.com/~tirupmehta) · [Kaggle](https://www.kaggle.com/TirupMehta)
+* **Code & Packages:** [GitHub R&D (@MehtaDevelops)](https://github.com/MehtaDevelops) · [npm (~tirupmehta)](https://www.npmjs.com/~tirupmehta) · [Kaggle](https://www.kaggle.com/TirupMehta)
 * **Connect:** [LinkedIn](https://www.linkedin.com/in/TirupMehta) · [Peerlist](https://peerlist.io/tirupmehta) · [X (@TirupMehta)](https://x.com/TirupMehta) · [Happenstance](https://happenstance.ai/u/tirupmehta) · [Google Dev](https://g.dev/Tirup) · [YouTube](https://youtube.com/@TirupMehta) · [contact@tirup.in](mailto:contact@tirup.in)
