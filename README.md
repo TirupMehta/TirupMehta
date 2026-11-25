@@ -2,9 +2,11 @@
   <img src="https://github.com/TirupMehta/TirupMehta/blob/main/Image.png" alt="Learn. Build. Impact.">
 </p>
 
-### Most of my work sits in two lanes: product engineering in TypeScript and Next.js, and native desktop or security tooling in Rust and Node.js.
+---
 
-I'm a software engineering student in Gujarat who builds user-facing products, from web interfaces to local-first desktop software. I focus on making them clear to use on the surface and dependable underneath.
+### I'm a software engineering student in Gujarat who builds user-facing products, from web interfaces to local-first desktop software. I focus on making them clear to use on the surface and dependable underneath.
+
+Most of my work sits in two lanes: product engineering in TypeScript and Next.js, and native desktop or security tooling in Rust and Node.js.
 
 ### Shipped Work
 
